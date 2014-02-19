@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://valentinourbano.github.io/blog/2014/02/test/</loc>
+        <lastmod>2014-02-19T18:49:30+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://valentinourbano.github.io/archives/</loc>
         <lastmod>2014-02-19T18:49:30+01:00</lastmod>
     </url>

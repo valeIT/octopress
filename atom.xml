@@ -4,7 +4,7 @@
   <title><![CDATA[Valentino Blog]]></title>
   <link href="http://valentinourbano.github.io/atom.xml" rel="self"/>
   <link href="http://valentinourbano.github.io/"/>
-  <updated>2014-02-19T18:54:40+01:00</updated>
+  <updated>2014-02-19T18:59:11+01:00</updated>
   <id>http://valentinourbano.github.io/</id>
   <author>
     <name><![CDATA[Valentino Urbano]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://valentinourbano.github.io/blog/2014/02/test/"/>
+    <updated>2014-02-19T17:29:51+01:00</updated>
+    <id>http://valentinourbano.github.io/blog/2014/02/test</id>
+    <content type="html"><![CDATA[<p>Check</p>
+]]></content>
+  </entry>
   
 </feed>
