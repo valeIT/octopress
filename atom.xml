@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<<<<<<< HEAD
   <title><![CDATA[Valentino Blog]]></title>
-=======
-  <title><![CDATA[Valentino Blog]]></title>
->>>>>>> 653ea30d15006049c85b296e3cdad7ce66ba5d1f
   <link href="http://valentinourbano.github.io/atom.xml" rel="self"/>
   <link href="http://valentinourbano.github.io/"/>
-  <updated>2014-02-19T18:43:29+01:00</updated>
+  <updated>2014-02-19T18:49:45+01:00</updated>
   <id>http://valentinourbano.github.io/</id>
   <author>
     <name><![CDATA[Valentino Urbano]]></name>
@@ -18,11 +14,7 @@
 
   
   <entry>
-<<<<<<< HEAD
-    <title type="html"><![CDATA[Test]]></title>
-=======
     <title type="html"><![CDATA[test]]></title>
->>>>>>> 653ea30d15006049c85b296e3cdad7ce66ba5d1f
     <link href="http://valentinourbano.github.io/blog/2014/02/test/"/>
     <updated>2014-02-19T17:29:51+01:00</updated>
     <id>http://valentinourbano.github.io/blog/2014/02/test</id>
