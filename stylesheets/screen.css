@@ -1,15 +1,40 @@
 /*
-Syntax error: Invalid CSS after "...e global-reset;": expected selector or at-rule, was "<<<<<<< HEAD"
-        on line 3 of /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss
+Syntax error: Invalid CSS after "... left !default;": expected selector or at-rule, was "<<<<<<< HEAD"
+        on line 2 of /Users/valentinourbano/Dropbox/site/octopress/sass/base/_theme.scss
+        from line 3 of /Users/valentinourbano/Dropbox/site/octopress/sass/_base.scss
+        from line 11 of /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss
 
 1: /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss
 
 Backtrace:
-/Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss:3
+/Users/valentinourbano/Dropbox/site/octopress/sass/base/_theme.scss:2
+/Users/valentinourbano/Dropbox/site/octopress/sass/_base.scss:3
+/Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss:11
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1146:in `expected'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:1084:in `expected'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/scss/parser.rb:28:in `parse'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/engine.rb:342:in `_to_tree'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/engine.rb:274:in `to_tree'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:225:in `visit_import'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `block in visit_import'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `map'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:227:in `visit_import'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/tree/root_node.rb:20:in `render'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/engine.rb:315:in `_render'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/sass-3.2.9/lib/sass/engine.rb:262:in `render'
 /Users/valentinourbano/.rvm/gems/ruby-2.0.0-p353/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
@@ -39,4 +64,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"...e global-reset;\": expected selector or at-rule, was \"<<<<<<< HEAD\"\A         on line 3 of /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss\A \A 1: /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"... left !default;\": expected selector or at-rule, was \"<<<<<<< HEAD\"\A         on line 2 of /Users/valentinourbano/Dropbox/site/octopress/sass/base/_theme.scss\A         from line 3 of /Users/valentinourbano/Dropbox/site/octopress/sass/_base.scss\A         from line 11 of /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss\A \A 1: /Users/valentinourbano/Dropbox/site/octopress/sass/screen.scss"; }
